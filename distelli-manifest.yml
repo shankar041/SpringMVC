@@ -6,7 +6,7 @@ shankar/SpringMVC:
     - JAVA_HOME: "/usr/lib/jvm/java-7-oracle/jre"
     # The port number below is only for reference. Set it to the
     #  port number of your tomcat server.
-    - PORT: "1010"
+    - PORT: "9000"
 
   PreBuild:
     #- sudo add-apt-repository -y ppa:webupd8team/java
