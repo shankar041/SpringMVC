@@ -3,7 +3,7 @@ shankar/SpringMVC:
   Env:
     # Set the below enviornment variables for your environment
     - CATALINA_HOME: "/var/lib/tomcat8"
-    - JAVA_HOME: "/usr/lib/jvm/java-7-oracle/jre"
+    - JAVA_HOME: "/usr/lib/jvm/java-8-oracle"
     # The port number below is only for reference. Set it to the
     #  port number of your tomcat server.
     - PORT: "9000"
