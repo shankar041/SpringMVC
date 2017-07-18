@@ -19,7 +19,7 @@ shankar/SpringMVC:
     #- sudo apt-get -y install maven
 
   Build:
-    - mvn package
+    - mvn clean install
 
   PkgInclude:
     - '/target/SpringMVC.war'
